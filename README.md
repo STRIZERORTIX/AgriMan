@@ -1,7 +1,7 @@
 
 # AgriMan - An Agriculture Management System
 
-This Project Was Done Using AdobeXd , JAVA-SWING, MySQL ,LucidChart 
+This Project Was Done Using AdobeXd, JAVA-SWING, MySQL ,LucidChart 
 ## Authors
 
 - [Abhinandhan S](https://github.com/STRIZERORTIX)
